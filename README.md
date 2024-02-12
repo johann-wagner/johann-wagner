@@ -8,14 +8,28 @@
 
 Nice to meet you! 😊
 
-- 📝 **Personal website:** [johann-wagner.github.io](https://johann-wagner.github.io/)
-
-- 📊 **Work:** Economic/data analyst at the [Australian Government Department of Education](https://www.education.gov.au/)
+- 📊 **Experience:**
+  - Economic/data analyst at the [Australian Government Department of Education](https://www.education.gov.au/) (2023-Present)
+  - Intern Consultant at [Nous Group](https://nousgroup.com/) (2022)
+  - Student Data Scientist at the [Australian Bureau of Statistics](https://www.abs.gov.au/) (2022)
+  - Data Officer at [ACT Health](https://www.health.act.gov.au/) (2021-2022)
 
 - 📚 **Education:**
-  - Bachelor of Economics and Bachelor of Science ([Quantitative Environmental Modelling](https://programsandcourses.anu.edu.au/2023/major/quem-maj), [Econometrics](https://programsandcourses.anu.edu.au/2023/minor/emet-min), and [Applied Statistics](https://programsandcourses.anu.edu.au/2023/minor/apst-min)) at the Australian National University (2023)
+  - Bachelor of Economics and Bachelor of Science at the Australian National University (2023)
+    - [Quantitative Environmental Modelling](https://programsandcourses.anu.edu.au/2023/major/quem-maj)
+    - [Econometrics](https://programsandcourses.anu.edu.au/2023/minor/emet-min)
+    - [Applied Statistics](https://programsandcourses.anu.edu.au/2023/minor/apst-min))
 
-- 🚲 **Passion:** Quality time with friends, endurance sports and travelling
+- 🚲 **Passion:**
+  - Quality time with friends
+  - Endurance sports
+  - Backpacking
+
+- 📝 **Links:**
+  - [Personal website](https://johann-wagner.github.io/)
+  - [LinkedIn](https://www.linkedin.com/in/johannwagner/)
+  - [My CV](https://johann-wagner.github.io/cv/)
+  - [My Data Projects](https://johann-wagner.github.io/projects/)
 
 ---
 
