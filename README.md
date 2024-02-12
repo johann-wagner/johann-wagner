@@ -2,8 +2,6 @@
 
 <h3 align="center"> Economic / Data Analyst at the Department of Education </h3>
 
-<br>
-
 ---
 
 Nice to meet you! 😊
@@ -18,7 +16,7 @@ Nice to meet you! 😊
   - Bachelor of Economics and Bachelor of Science at the Australian National University (2023)
     - [Quantitative Environmental Modelling](https://programsandcourses.anu.edu.au/2023/major/quem-maj)
     - [Econometrics](https://programsandcourses.anu.edu.au/2023/minor/emet-min)
-    - [Applied Statistics](https://programsandcourses.anu.edu.au/2023/minor/apst-min))
+    - [Applied Statistics](https://programsandcourses.anu.edu.au/2023/minor/apst-min)
 
 - 🚲 **Passion:**
   - Quality time with friends
