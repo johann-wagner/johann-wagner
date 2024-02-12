@@ -7,10 +7,10 @@
 Nice to meet you! 😊
 
 - 📊 **Experience:**
-  - Economic/data analyst at the [Australian Government Department of Education](https://www.education.gov.au/) (2023-Present)
+  - Economic/data analyst at the [Australian Government Department of Education](https://www.education.gov.au/) (2023 - Present)
   - Intern Consultant at [Nous Group](https://nousgroup.com/) (2022)
   - Student Data Scientist at the [Australian Bureau of Statistics](https://www.abs.gov.au/) (2022)
-  - Data Officer at [ACT Health](https://www.health.act.gov.au/) (2021-2022)
+  - Data Officer at [ACT Health](https://www.health.act.gov.au/) (2021 - 2022)
 
 - 📚 **Education:**
   - Bachelor of Economics and Bachelor of Science at the Australian National University (2023)
