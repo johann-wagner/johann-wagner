@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Johann (he/him)! 👋</h1>
 
-<h3 align="center"> Data Scientist at [Jobs and Skills Australia](https://www.jobsandskills.gov.au/) </h3>
+<h3 align="center"> Data Scientist at Jobs and Skills Australia </h3>
 
 ---
 
