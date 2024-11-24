@@ -20,7 +20,7 @@ Nice to meet you! 😊
     - [Applied Statistics](https://programsandcourses.anu.edu.au/2023/minor/apst-min)
 
 - 🚲 **Passion:**
-  - Endurance sports
+  - Endurance sports (type >2 fun)
   - Backpacking
 
 - 📝 **Links:**
